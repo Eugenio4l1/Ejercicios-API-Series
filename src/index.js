@@ -1,4 +1,4 @@
-const ID = new URLSearchParams(location.search).get("id") ?? "3200";
+const ID = new URLSearchParams(location.search).get("id") ?? "320";
 const PLACEHOLDER_IMAGE = "https://placehold.co/210x295";
 
 const $header = document.querySelector("header");
